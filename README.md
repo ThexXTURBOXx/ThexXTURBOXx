@@ -17,7 +17,7 @@ Open Source is my life! Look at all my contributions below!
 
 
 <p align="center">
-  <a href="https://github.com/ThexXTURBOXx"><img src="https://github-profile-trophy.vercel.app/?username=ThexXTURBOXx&no-bg=true" alt="ThexXTURBOXx's stats" /></a>
+  <a href="https://github.com/ThexXTURBOXx"><img src="https://github-profile-trophy.vercel.app/?username=ThexXTURBOXx&row=1&theme=tokyonight&no-bg=true" alt="ThexXTURBOXx's stats" /></a>
 </p>
 
 <p align="center">
