@@ -8,6 +8,10 @@
     <a href="https://github.com/ThexXTURBOXx" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@ThexXTURBOXx-000000?style=flat-square&logo=GitHub&logoColor=white"></a>
 </p>
 
+<p align="center">
+    <a href="https://github.com/ThexXTURBOXx"><img alt="Visitor Counter" src="https://visitor-badge.glitch.me/badge?page_id=ThexXTURBOXx"></a>
+</p>
+
 ---
 
 
