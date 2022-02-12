@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/ThexXTURBOXx"><img alt="Visitor Counter" src="https://visitor-badge.glitch.me/badge?page_id=ThexXTURBOXx"></a>
+    <a href="https://github.com/ThexXTURBOXx"><img alt="Visitor Counter" src="https://komarev.com/ghpvc/?username=ThexXTURBOXx&style=flat-square&color=red"></a>
 </p>
 
 ---
