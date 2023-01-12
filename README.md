@@ -31,8 +31,8 @@ Open Source is my life! Look at all my contributions below!
 ---
 
 <p align="center">
-  <a href="https://github.com/ThexXTURBOXx"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThexXTURBOXx&count_private=true&show_icons=true&locale=en&layout=compact&theme=tokyonight&bg_color=00000000" alt="ThexXTURBOXx's stats" height="200" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/ThexXTURBOXx"><img src="https://github-readme-stats.vercel.app/api?username=ThexXTURBOXx&show_icons=true&locale=en&include_all_commits=true&theme=tokyonight&bg_color=00000000" alt="ThexXTURBOXx's stats" height="200" /></a>
+  <a href="https://github.com/ThexXTURBOXx"><img src="https://github-readme-stats-thexxturboxx.vercel.app/api/top-langs?username=ThexXTURBOXx&count_private=true&show_icons=true&locale=en&layout=compact&theme=tokyonight&bg_color=00000000" alt="ThexXTURBOXx's stats" height="200" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ThexXTURBOXx"><img src="https://github-readme-stats-thexxturboxx.vercel.app/api?username=ThexXTURBOXx&show_icons=true&locale=en&include_all_commits=true&theme=tokyonight&bg_color=00000000" alt="ThexXTURBOXx's stats" height="200" /></a>
 </p>
 
 ---
