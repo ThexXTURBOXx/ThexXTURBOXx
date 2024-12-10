@@ -25,7 +25,7 @@ Open Source is my life! Look at all my contributions below!
 </p>
 
 <p align="center">
-  <a href="https://github.com/ThexXTURBOXx"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ThexXTURBOXx&theme=tokyonight&background=00000000" alt="ThexXTURBOXx's stats" /></a>
+  <a href="https://github.com/ThexXTURBOXx"><img src="https://github-readme-streak-stats-olive-one.vercel.app/?user=ThexXTURBOXx&theme=tokyonight&background=00000000" alt="ThexXTURBOXx's stats" /></a>
 </p>
 
 ---
