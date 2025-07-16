@@ -15,7 +15,7 @@
 ---
 
 
-## Open Source
+<!--## Open Source
 
 Open Source is my life! Look at all my contributions below!
 
@@ -35,7 +35,7 @@ Open Source is my life! Look at all my contributions below!
   <a href="https://github.com/ThexXTURBOXx"><img src="https://github-readme-stats-thexxturboxx.vercel.app/api?username=ThexXTURBOXx&show_icons=true&locale=en&include_all_commits=true&theme=tokyonight&bg_color=00000000" alt="ThexXTURBOXx's stats" height="200" /></a>
 </p>
 
----
+----->
 
 <p align="center">
   <a href="https://holopin.io/@HyperSpeeed"><img src="https://holopin.io/api/user/board?user=HyperSpeeed" alt="@HyperSpeeed's Holopin board" height="200" /></a>
