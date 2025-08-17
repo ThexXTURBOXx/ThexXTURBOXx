@@ -1,3 +1,14 @@
+# Vacation 2025
+
+I am on well-deserved **vacation from 20-08-2025 to 02-09-2025**!  
+During that time, I can only respond to "important" issues and cannot contribute any code.  
+Feel free to create issues or PRs during that time, which I will review after my vacation.
+
+Thank you for your understanding!  
+*- Nico*
+
+---
+
 <p align="center">
     <a href="https://scholar.google.com/citations?user=ZIxgpOEAAAAJ" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/-Google%20Scholar-8888ff?style=flat-square&logo=Google%20Scholar&logoColor=white"></a>
     <a href="https://www.webofscience.com/wos/author/record/2786889" target="_blank"><img alt="Clarivate" src="https://img.shields.io/badge/-Web%20of%20Science-29527a?style=flat-square&logo=Clarivate&logoColor=white"></a>
